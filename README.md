@@ -1,5 +1,6 @@
 # One Diffusion to Generate Them All
-## 项目名称：One Diffusion to Generate them All复现 项目性质：课程实践复现作业
+## 项目名称：One Diffusion to Generate them All复现 
+## 项目性质：课程实践复现作业
 ## 说明：此代码根据 https://lehduong.github.io/OneDiffusion-homepage/ 复现，作为领域工程创新实践课程实践作业的一部分。
 ## 原始来源：- GitHub 
 ## 仓库链接： https://github.com/lehduong/OneDiffusion 
